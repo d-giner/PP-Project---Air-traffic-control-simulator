@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.pdb
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\obj\Debug\ProyectoLib.cs.csprojResolveAssemblyReference.cache

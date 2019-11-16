@@ -1,0 +1,8 @@
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\bin\Release\MiDatabase.sdf
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\bin\Release\PROYECTO_0.dll.config
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\bin\Release\PROYECTO_0.dll
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\bin\Release\PROYECTO_0.pdb
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\obj\Release\ProyectoLib.csprojResolveAssemblyReference.cache
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\obj\Release\PROYECTO_0.dll
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\obj\Release\PROYECTO_0.pdb
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_v05\PROYECTO_0\bin\Release\UsersDB.sdf

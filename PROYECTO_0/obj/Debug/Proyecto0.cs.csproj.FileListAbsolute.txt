@@ -1,0 +1,27 @@
+C:\Users\alexr\OneDrive\Documentos\Visual Studio 2010\Projects\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+C:\Users\alexr\OneDrive\Documentos\Visual Studio 2010\Projects\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+C:\Users\alexr\OneDrive\Documentos\Visual Studio 2010\Projects\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+C:\Users\alexr\OneDrive\Documentos\Visual Studio 2010\Projects\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.pdb
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.pdb
+C:\Users\Daniel\Desktop\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+C:\Users\Daniel\Desktop\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+C:\Users\Daniel\Desktop\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+C:\Users\Daniel\Desktop\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.pdb
+C:\Users\alexr\Desktop\PROYECTO_0dani\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+C:\Users\alexr\Desktop\PROYECTO_0dani\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+C:\Users\alexr\Desktop\PROYECTO_0dani\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+C:\Users\alexr\Desktop\PROYECTO_0dani\PROYECTO_0\obj\Debug\PROYECTO_0.pdb
+E:\PROYECTO_0dani\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+E:\PROYECTO_0dani\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+E:\PROYECTO_0dani\PROYECTO_0\obj\Debug\Proyecto0.cs.csprojResolveAssemblyReference.cache
+E:\PROYECTO_0dani\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+E:\PROYECTO_0dani\PROYECTO_0\obj\Debug\PROYECTO_0.pdb
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\obj\Debug\Proyecto0.cs.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.dll
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\bin\Debug\PROYECTO_0.pdb
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\obj\Debug\Proyecto0.cs.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.dll
+C:\Users\Daniel\Documents\UPC\PP\PROYECTO_0\PROYECTO_0\obj\Debug\PROYECTO_0.pdb

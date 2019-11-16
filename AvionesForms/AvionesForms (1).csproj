@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77583627-889F-451D-BAE1-ED524B321100}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AvionesForms</RootNamespace>
+    <AssemblyName>AvionesForms</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutoSimulacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSimulacion.Designer.cs">
+      <DependentUpon>AutoSimulacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvionesEnEspacio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AvionesEnEspacio.Designer.cs">
+      <DependentUpon>AvionesEnEspacio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvionesEnSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AvionesEnSector.Designer.cs">
+      <DependentUpon>AvionesEnSector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AñadirAvion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AñadirAvion.Designer.cs">
+      <DependentUpon>AñadirAvion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bbdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bbdd.Designer.cs">
+      <DependentUpon>bbdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarAvion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarAvion.Designer.cs">
+      <DependentUpon>EliminarAvion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaUsuarios.Designer.cs">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiDatabaseDataSet.cs">
+      <DependentUpon>MiDatabaseDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MiDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MiDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificar.Designer.cs">
+      <DependentUpon>Modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Simulación.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simulación.Designer.cs">
+      <DependentUpon>Simulación.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AcercaDe.resx">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSimulacion.resx">
+      <DependentUpon>AutoSimulacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvionesEnEspacio.resx">
+      <DependentUpon>AvionesEnEspacio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvionesEnSector.resx">
+      <DependentUpon>AvionesEnSector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AñadirAvion.resx">
+      <DependentUpon>AñadirAvion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bbdd.resx">
+      <DependentUpon>bbdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarAvion.resx">
+      <DependentUpon>EliminarAvion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaUsuarios.resx">
+      <DependentUpon>ListaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificar.resx">
+      <DependentUpon>Modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simulación.resx">
+      <DependentUpon>Simulación.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="MiDatabaseDataSet.xsc">
+      <DependentUpon>MiDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MiDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MiDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MiDatabaseDataSet.xss">
+      <DependentUpon>MiDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PROYECTO_0\ProyectoLib.csproj">
+      <Project>{2A6002FF-CF6D-4356-9271-12CA8671393A}</Project>
+      <Name>ProyectoLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4 @@
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\bin\Release\PROYECTO_0.dll
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\bin\Release\PROYECTO_0.pdb
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\obj\Release\PROYECTO_0.dll
+D:\Usuarios\Daniel\Documentos\Drive\PP\PROYECTO_0\PROYECTO_0\obj\Release\PROYECTO_0.pdb
